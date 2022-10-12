@@ -11,17 +11,27 @@ Oltre al metodo `main`, devono essere definiti ed utilizzati almeno i seguenti m
 ##### Esempio d'esecuzione:
 
 ```text
-$ java min_max_media 1 2 3 4
+$ java min_max_media 4
+1
+2
+3
+4
 Minimo: 1
 Massimo: 4
 Valore medio: 2.5
 
-$ java min_max_media -1 10 6 
+$ java min_max_media 3
+-1
+10
+6 
 Minimo: -1
 Massimo: 10
 Valore medio: 5
 
-$ java min_max_media -1 -2 -3
+$ java min_max_media 3
+-1
+-2
+-3
 Minimo: -3
 Massimo: -1
 Valore medio: -2
