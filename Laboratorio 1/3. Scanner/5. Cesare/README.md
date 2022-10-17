@@ -27,7 +27,7 @@ Testo di esempio
 diviso su righe diverse
 Testo cifrato:
 Uftup ej ftfnqjp
-ejwjtp tv qsjhif ejwfstf
+ejwjtp tv sjhif ejwfstf
 
 $ java cesare -2
 Inserisci un testo su più righe (termina con CTRL D):

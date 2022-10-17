@@ -5,17 +5,17 @@ Scrivere un programma che legga da **riga di comando** una stringa senza spazi e
 ##### Esempio d'esecuzione
 ```text
 $ java palindrome sottotono
-[otto tt tot oto ono]
+[ otto tt tot oto ono ]
 
 $ java palindrome banana
-[ana anana nan ana]
+[ ana anana nan ana ]
 
 $ java palindrome ereggere
-[ere ereggere regger egge gg ere]
+[ ere ereggere regger egge gg ere ]
 
 $ java palindrome Vaðlaheiðarvegavinnuverkfærageymsluskúrslyklakippuhringurinn
-[nn pp nn]
+[ nn pp nn]
 
 $ java palindrome donaudampfschifffahrtselektrizitätenhauptbetriebswerkbauunterbeamtengesellschaft
-[ff fff ff ele izi tät uu ese ll]
+[ ff fff ff ele izi tät uu ese ll ]
 ```
