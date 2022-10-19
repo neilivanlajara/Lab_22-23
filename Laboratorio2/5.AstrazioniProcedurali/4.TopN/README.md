@@ -4,7 +4,6 @@ Scrivere un programma che trovi gli `n` numeri più grandi, dove `n` è inserito
 
 A tal fine specificare, implementare e utilizzare le seguenti **procedure parziali**:
 
-* `private static int readIntArg()` che legge da **riga di comando** un numero intero `n`
 * `private static int[] readIntArray()` che legge da **standard input** una serie di almeno `n` numeri interi **diversi tra loro**, fino a quando con `ctrl+D` non viene terminata la lettura
 * `public static int[] highest(int[] numbers, int n)` che calcola e restituisce un array con gli `n` interi più alti tra quelli inseriti a **standard input**
 * `private static void printArray(int[] numbers)` che stampa a **standard output** l'array ottenuto dalla procedura precedente.
