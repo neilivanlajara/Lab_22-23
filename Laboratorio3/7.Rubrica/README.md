@@ -16,9 +16,9 @@ Come modellereste
 ```text
 $ java Rubrica
 Joe Henry jhenry@bix.net 5553456
+Joe Henry jhenry@bix.net 5553456
 JimBob Johnson jbj@email.com -
 Jack Ripper slice@dice.org 3116535
-Joe Henry jhenry@bix.net 5553456
 
 Contatti uguali:
 Joe Henry jhenry@bix.net 5553456
